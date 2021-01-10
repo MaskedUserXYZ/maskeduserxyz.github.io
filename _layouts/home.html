@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<header style="text-align: center;">
+  <img style="height:auto;border-radius: 50%;" src="{{ site.header_image }}" width="260" height="260">
+  <h1>{{ site.title }}</h1>
+  {% if site.theme_config.show_description %}
+    <p>{{ site.description }}</p>
+  {% endif %}
+</header>
+<hr data-content="Who's me?"/>
+{% include menu_item.html collection=site.data.about.entries %}
+
+
+<hr data-content="Say Hello!"/>
+{% include menu_item.html collection=site.data.contact.entries %}
+
+
+<hr data-content="Blog"/>
+{% include menu_item.html collection=site.data.posts.entries %}
+
+
+{{ content }}

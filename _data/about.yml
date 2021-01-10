@@ -1,0 +1,25 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  # - title: info
+  #   entries:
+  #     - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+  #     - title: github repo
+  #       url: https://github.com/riggraz/no-style-please
+  #     - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+
+  - title: My name is <u><b>Mask</b></u>, and I used to work in both academia and industry.<br/> These days, I get bored because of all what I faced, so I decide to create this website to talk in a free way.
+  - title: Sometimes, I offer free services and softwares. Moreover, many times I want to see what other people think about it, if you are interested let me know!
+
+  
+
+  # - title: posts by category
+  #   post_list:
+  #     category: example2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+
+  # - title: rss
+  #   url: feed.xml
