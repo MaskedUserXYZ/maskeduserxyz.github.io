@@ -12,5 +12,3 @@ the main goal of put it on is to talk in free way, without any fears.
 Generally, I will talk about nerdy stuff: Mathematics, Computer Science, Software Engineering, and other related things.
 
 See you on the next post.
-
-- Mask.
