@@ -12,6 +12,4 @@ Generally, I will talk about nerdy stuff: Mathematics, Computer Science, Softwar
 
 See you on the next post.
 
-Sincerely,
-
 - Mask.
