@@ -2,7 +2,8 @@
 layout: post
 title:  "Hello World!"
 date:   2021-01-09 20:44:27 +0300
-categories: jekyll update
+author: Mask
+categories: news
 ---
 
 After a long journey between industry and academia, I decide to publish this website.
